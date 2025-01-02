@@ -10,7 +10,7 @@ export default defineConfig({
     open: true,
     proxy: {
       '/api': {
-        target: 'https://fullstack-backend-s31w.onrender.com/',
+        target: 'https://fullstack1-mse6.onrender.com/',
         secure: false,
         changeOrigin: true,
       },
