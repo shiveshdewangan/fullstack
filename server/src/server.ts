@@ -24,4 +24,4 @@ app.listen(PORT, () => {
   console.log(`API server running on port ${PORT}!`);
 });
 
-console.log("Hello World");
+console.log("Hello Worlds");
